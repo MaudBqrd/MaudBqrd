@@ -3,7 +3,7 @@ Maud Biquard - PhD Student ISAE-Supaero/CNES
 - [LinkedIn Profile](https://fr.linkedin.com/in/maud-biquard-a87a771a2)
 - [Scholars Profile](https://scholar.google.com/citations?user=36jORtwAAAAJ&hl=fr)
 
-The repo on [VBLE paper](https://arxiv.org/pdf/2311.17744) is available following [this link](https://github.com/MaudBqrd/VBLE)
+The repo on [VBLE paper "Variational Bayes Image Restoration with Compressive Autoencoders"](https://arxiv.org/pdf/2311.17744) is available following [this link](https://github.com/MaudBqrd/VBLE)
 
 
 <!--
